@@ -1,5 +1,8 @@
 # 💫🌙☕ WdangTehSeeker3245 Dev Repo :
+<!--
 ![](https://komarev.com/ghpvc/?username=WdangTehSeeker3245)
+-->
+[![](https://visitcount.itsvg.in/api?id=WdangTehSeeker3245&icon=0&color=0)](https://visitcount.itsvg.in)
 <br>
 Hi There This is My Repository, Feel free to browse problem solve opensource code. 
 i usually solving problem from easy to difficult for teaching purpose and defensive programing unit testing later
@@ -20,5 +23,5 @@ https://en.wikipedia.org/wiki/Defensive_programming
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=WdangTehSeeker3245&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
