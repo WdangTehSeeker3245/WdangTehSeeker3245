@@ -1,4 +1,4 @@
-# 💫🌙☕ WdangTehSeeker3245 Dev Repo :
+# 💫🌙☕ WdangTehSeeker3245 Dev Repo 
 <!--
 ![](https://komarev.com/ghpvc/?username=WdangTehSeeker3245)
 -->
