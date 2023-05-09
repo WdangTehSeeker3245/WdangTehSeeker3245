@@ -9,6 +9,7 @@ I usually solve a problem from easy to difficult for easier to read and learn by
 
 <br><br>
 ![](https://www.codewars.com/users/WdangTehSeeker3245/badges/large)<br>
+* <a href="https://bitbucket.org/faizalnurulfirdaus_code/workspace/repositories">Bitbucket Repository</a>
 * <a href="https://www.codewars.com/users/WdangTehSeeker3245">WdangTehSeeker3245 Code War</a>
 * <a href="https://codepen.io/WdangTehSeeker3245/">WdangTehSeeker3245 Codepen</a>
 * <a href="https://faizalnf-community-portofolio.vercel.app/">My Community Portofolio</a>
