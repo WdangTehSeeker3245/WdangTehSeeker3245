@@ -17,7 +17,7 @@ I usually solve a problem from easy to difficult for easier to read and learn by
 
 # 📊GitHub Stats :
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WdangTehSeeker3245&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=WdangTehSeeker3245&theme=tokyonight&hide_border=false)<br/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=WdangTehSeeker3245&theme=tokyonight&hide_border=false"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WdangTehSeeker3245&layout=compact&langs_count=8&theme=algolia"/>
 <!-- ![](https://github-readme-stats.vercel.app/api?username=WdangTehSeeker3245&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=WdangTehSeeker3245&theme=tokyonight&hide_border=false)<br/> -->
