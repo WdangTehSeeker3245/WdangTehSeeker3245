@@ -1,8 +1,8 @@
 # 🌙☕ WdangTehSeeker3245 Dev Repo 
-<!--
 ![](https://komarev.com/ghpvc/?username=WdangTehSeeker3245)
--->
+<!--
 [![](https://visitcount.itsvg.in/api?id=WdangTehSeeker3245&icon=0&color=0)](https://visitcount.itsvg.in)
+-->
 <br>
 Hi There This is My Repository, Feel free to browse my opensource code. 
 I usually post working code from easy to difficult for easier to read and learn by community coder
