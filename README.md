@@ -15,6 +15,7 @@ I usually post working code from easy to difficult for easier to read and learn 
 * <a href="https://raindrop.io/faizaln77izaus/ui-ux-37672533">WdangTehSeeker3245 UI/UX</a>
 * <a href="https://faizalnf-community-portofolio.vercel.app/">My Community Portofolio</a>
 * <a href="https://wdangtehseeker-website.netlify.app/">N77 Universal Website</a>
+* <a href="http://faizalnf-invest-portfolio.surge.sh/">My Investment Portofolio</a>
 
 # 📊GitHub Stats :
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WdangTehSeeker3245&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
