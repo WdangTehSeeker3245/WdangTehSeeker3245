@@ -11,6 +11,7 @@ I usually post working code from easy to difficult for easier to read and learn 
 <br><br>
 ![](https://www.codewars.com/users/WdangTehSeeker3245/badges/large)<br>
 * <a href="https://bitbucket.org/faizalnurulfirdaus_code/workspace/repositories">Bitbucket Repository</a>
+* <a href="https://huggingface.co/faizalnf1800">Huggingface Repository</a>
 * <a href="https://www.codewars.com/users/WdangTehSeeker3245">WdangTehSeeker3245 Code War</a>
 * <a href="https://codepen.io/WdangTehSeeker3245/">WdangTehSeeker3245 Codepen</a>
 * <a href="https://raindrop.io/faizaln77izaus/ui-ux-37672533">WdangTehSeeker3245 UI/UX</a>
