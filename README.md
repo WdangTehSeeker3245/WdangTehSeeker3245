@@ -17,7 +17,7 @@ I usually post working code from easy to difficult for easier to read and learn 
 * <a href="https://raindrop.io/faizaln77izaus/ui-ux-37672533">WdangTehSeeker3245 UI/UX</a>
 * <a href="https://faizalnf-community-portofolio.vercel.app/">My Community Coding Portfolio</a>
 * <a href="https://wdangtehseeker-website.netlify.app/">N77 Universal Website</a>
-* <a href="http://faizalnf-invest-portfolio.surge.sh/">My Investment Portfolio</a>
+* <a href="#">My Investment Portfolio</a>
 * <a href="https://www.fiverr.com/faizalnf77">My Fiverr Profile</a>
 
 # 📊GitHub Stats :
